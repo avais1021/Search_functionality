@@ -51,12 +51,15 @@
     display: flex;
     /* justify-content: center; */
     align-items: center;
-    gap: 15px;
-    width: 300px;
-    margin: 15px 0 ;
-    /* box-shadow: 3px 3px 10px; */
-    background-color: cadetblue;
+    gap: 10px;
+    width: 100%;
+    max-width: 400px;
+    margin: 15px 10px ;
+    box-shadow: 3px 3px 10px;
+    /* background-color: cadetblue; */
     padding: 5px 15px;
+    word-break: break-word;
+    border-radius: 8px;
 }
 .user_data img{
     width: 70px;
