@@ -71,6 +71,7 @@
 }
 .user_data a{
     text-decoration: none;
+    font-size: 15px;
 }
 .user_data a:focus{
     color: red;
